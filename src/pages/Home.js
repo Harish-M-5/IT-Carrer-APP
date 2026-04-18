@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import SectionCard from "../components/SectionCard";
 
 function Home() {
