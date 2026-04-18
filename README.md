@@ -20,6 +20,8 @@ Instead of searching multiple websites, users can open **one application** and a
 * Project ideas
 * IT industry news
 * Programming resources
+* Cloud technology
+* Project tools
 
 This improves **productivity, learning speed, and career preparation**.
 
@@ -32,48 +34,66 @@ This improves **productivity, learning speed, and career preparation**.
 * LeetCode
 * HackerRank
 * CodeChef
-* Codeforces
-* GeeksforGeeks
+  
 
 ### 🧠 Aptitude Practice
 
 * IndiaBix
 * PrepInsta
-* FreshersWorld
+
 
 ### 🎓 Online Courses
 
 * Udemy
 * Coursera
 * Great Learning
-* edX
+
 
 ### 🤖 AI Tools
 
 * ChatGPT
 * Claude
 * Gemini
-* Perplexity
 
 ### 💼 Jobs & Internship
 
 * LinkedIn Jobs
 * Internshala
 * Naukri
-* Indeed
+  
 
 ### 📚 Programming Languages
 
 * Python
 * Java
 * JavaScript
-* C++
+* C
+
+
+## 👨‍💻 Project tools
+* VS code
+* Github
+* IDE 
+
+## ☁️ Cloud and deployment 
+* AWS
+* Azure
+* Netlify
+* Vercel
+  
 
 ### 🗣️ Communication Practice
 
 * Vocabulary
 * Grammar tools
 * English practice platforms
+* AI Communication practice 
+
+
+##🤖 AI Mock Interview 
+* HR Interview 
+* Technical Interview 
+
 
 ---
 
@@ -163,6 +183,7 @@ Students waste time searching:
 * Interview preparation
 * Courses
 * Job portals
+* Tools search 
 
 Everything scattered across internet.
 
@@ -326,14 +347,20 @@ http://localhost:3000
 
 
 
-## Demo Video:
+##🎥 Demo Video:
+
+
+
+https://github.com/user-attachments/assets/6a3fee54-dd22-4b6b-a16c-d156b7b733a1
+
+
 
 
 
 
 ---
 
-## Output:
+## 🔲 Output:
 <img width="1920" height="1080" alt="Screenshot 2026-04-18 121809" src="https://github.com/user-attachments/assets/4aa5cad5-39b7-4fa6-8f58-29108088f980" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-04-18 121826" src="https://github.com/user-attachments/assets/7c45fff5-cb55-460c-92b2-2673bba5e93f" />
@@ -352,21 +379,6 @@ http://localhost:3000
 
 ---
 
-# ⚙️ Configuration
-
-Users can easily modify links in:
-
-```
-App.js
-```
-
-Example:
-
-```
-{name:"Your Link", url:"https://yourlink.com"}
-```
-
----
 
 # 🙏 Acknowledgments
 
@@ -404,7 +416,7 @@ This project demonstrates:
 
 Harish
 
-IT Career Hub Project
+IT Career App Project
 
 ---
 
