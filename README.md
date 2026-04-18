@@ -110,7 +110,7 @@ Install Node.js
 Create React App
 
 ```
-npx create-react-app it-career-hub
+npx create-react-app it-career-app
 ```
 
 ### Step 3
@@ -118,7 +118,7 @@ npx create-react-app it-career-hub
 Navigate to folder
 
 ```
-cd it-career-hub
+cd it-career-app
 ```
 
 ### Step 4
@@ -149,8 +149,9 @@ it-career-hub
 │   ├── components
 │   │   ├── Navbar.js
 │   │   ├── SectionCard.js
-│   │   ├── Footer.js
-│   │
+│   |____ pages
+│   │   |___ Home.js
+|   |
 │   ├── App.js
 │   ├── App.css
 │   ├── index.js
