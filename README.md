@@ -2,13 +2,13 @@
 
 A **Complete All‑in‑One IT Career Platform** for Students, Freshers, and Developers.
 
-This application provides **Coding Practice, Interview Preparation, AI Tools, Project tools, Cloud,Job Links, Learning Platforms, Notes, and Career Resources** — all inside a **single React application**.
+This application provides **Coding Practice, Interview Preparation, AI Tools, Project tools, Cloud,Job Links, Learning Platforms, and Career Resources** — all inside a **single React application**.
 
 ---
 
 # 📌 Overview
 
-IT Career Hub is designed to **solve the biggest problem faced by IT students and freshers** — searching multiple platforms for learning, practice, and job preparation.
+IT Career Hub is designed to **solve the biggest problem faced by IT students and freshers** — searching multiple platforms for learning, practice and job preparation.
 
 Instead of searching multiple websites, users can open **one application** and access:
 
