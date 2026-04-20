@@ -1,8 +1,8 @@
 # 🚀 IT Career Hub
 
-A **Complete All‑in‑One IT Career Platform** for Students, Freshers, and Developers.
+A **Complete All‑in‑One IT Career Platform** for Students, Freshers, and Developers
 
-This application provides **Coding Practice, Interview Preparation, AI Tools, Project tools, Cloud,Job Links, Learning Platforms, and Career Resources** — all inside a **single React application**.
+This application provides **Coding Practice, Interview Preparation, AI Tools, Project tools, Cloud,Job Links, Learning Platforms, and Career Resources** — all inside a **single React application**
 
 ---
 
@@ -233,7 +233,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console
 
 ### `npm test`
 
